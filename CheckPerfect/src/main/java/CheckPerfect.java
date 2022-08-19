@@ -28,10 +28,7 @@ checkPerfect(496) ➞ true
 checkPerfect(12) ➞ false
 checkPerfect(97) ➞ false
 */
-import java.io.*;
 import java.util.Scanner;
-
-import static java.lang.Math.*;
 
 public class CheckPerfect {
 
